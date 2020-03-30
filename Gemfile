@@ -8,6 +8,7 @@ gem "config", "~> 2.2", ">= 2.2.1"
 gem "jbuilder", "~> 2.7"
 gem "pg", ">= 0.18", "< 2.0"
 gem "puma", "~> 4.1"
+gem 'grape'
 gem "rails", "~> 6.0.2", ">= 6.0.2.1"
 gem "rspec-rails", "~> 3.9", ">= 3.9.1"
 gem "rspec", "~> 3.9"
